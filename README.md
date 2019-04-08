@@ -13,4 +13,4 @@ ASM module (startup.asm) compiled by FASM
 
 C modules compiled by MinGW (build.bat)
 
-The OUT directory contain compled binary (memtest)
+The OUT directory contain compiled binary (memtest)
