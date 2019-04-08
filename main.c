@@ -383,7 +383,7 @@ void wait_key( uchar key )
 }
 
 
-void interrups_init( )
+void interrupts_init( )
 {
    // set timer & keyb proc // 
    disable_interrupts();
@@ -455,7 +455,7 @@ void kernel_main( )
    
    mem_init();
    
-   interrups_init();
+   interrupts_init();
    
    print_str_xy(0, 24, " ENTER - Start test, C - Configure test, ESC - Pause");
 
