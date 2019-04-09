@@ -1,5 +1,5 @@
 # MemTest
-**Utility for memory test**
+**Utility for RAM test**
 
 ***Run via GRUB***
 ```
