@@ -14,3 +14,7 @@ ASM module (startup.asm) compiled by FASM
 C modules compiled by MinGW (build.bat)
 
 The OUT directory contain compiled binary (memtest)
+
+![Emulator](https://github.com/dx8vb/Memory-Test/blob/master/screenshot/emulator1.png)
+![Emulator](https://github.com/dx8vb/Memory-Test/blob/master/screenshot/emulator2.png)
+![Hardware](https://github.com/dx8vb/Memory-Test/blob/master/screenshot/hardware.png)
