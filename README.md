@@ -1,4 +1,4 @@
-# Memory Test
+# MemTest
 **Utility for memory test**
 
 ***Run via GRUB***
