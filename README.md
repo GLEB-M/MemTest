@@ -1,7 +1,7 @@
 # MemTest
 **Utility for RAM diagnostic**
 
-***Run via GRUB***
+***Run from GRUB***
 ```
 title MemTest
 chainloader --force --load-segment=0x0 --load-offset=0x8000 --boot-cs=0x0 --boot-ip=0x8000 /memtest
